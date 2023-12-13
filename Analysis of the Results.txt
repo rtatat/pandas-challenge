@@ -1,0 +1,11 @@
+According to the conducted analysis, it can be found that in all observed schools, at least 66% of students pass both reading and mathematics. This is despite the varying details of the schools, such as the total budget allocated for the schools or the type of school, whether it be a government or independent school.
+
+Across each school, the scores for mathematics and reading remain relatively consistent across all year levels. For example, Hernandez High School's mathematics scores range from approximately 68.59% in year 9 to 69.15% in year 11, with the other year levels being contained within that range. The school's reading scores range from approximately 68.42% in year 11 to 70.62% in year 10, with the other year levels also being contained within that range.
+
+Analysing the student scores based on the budget allocated per student, the highest observed values are found with budgets ranging from 585 and 630 dollars per student. This is the case for the observed metrics of average mathematics and reading scores, the percent of students who pass mathematics and reading, and the percentage of students who pass both subjects
+
+Analysing the data according to school size, it can be observed that greater student numbers will decrease the average mathematics and reading scores, the percentage of students who pass each subject separately and the percentage of students who pass both subjects. Maintaining a school student population of under 1000 students appears to be essential in maintaining the greatest academic results.
+
+In analysing the scores based on school type, it can be found that independent schools perform better in all observed metrics compared to government schools.
+
+Therefore, in order to maximise student results, a school must be independent, maintain a student population under 1000 students and allocate a budget between $585 and $630 per student.
